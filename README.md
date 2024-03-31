@@ -1,4 +1,4 @@
-**# leaflet-challenge
+# leaflet-challenge
 paths to part 1 and 2 are available in the html, but to view part 2 assignment please comment out the path to logic.js, to view part 1 comment out the path to logic2.js. 
 
 # Challenge
